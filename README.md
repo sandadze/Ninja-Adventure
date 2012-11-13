@@ -1,4 +1,4 @@
 Ninja-Adventure
 ===============
 
-A small game using swing library
+A small game using java swing library
